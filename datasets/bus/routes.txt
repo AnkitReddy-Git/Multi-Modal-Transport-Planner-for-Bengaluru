@@ -1,0 +1,19 @@
+route_id,route_short_name,route_long_name,route_type
+R01,335E,Majestic - MG Road - Indiranagar - Baiyappanahalli,3
+R02,401,Majestic - Vijayanagar - RR Nagar - Kengeri,3
+R03,500CA,KR Puram - Marathahalli - Whitefield,3
+R04,201R,Indiranagar - Koramangala - BTM Layout,3
+R05,252A,Majestic - Yeshwantpur - Hebbal,3
+R06,MBS-6,MG Road - Shivajinagar - Cantonment,3
+R07,314A,Baiyappanahalli - Tin Factory - KR Puram,3
+R08,500D,Whitefield - Hoodi - Marathahalli,3
+R09,210H,Majestic - Basavanagudi - Banashankari - JP Nagar,3
+R10,HAL-1,Indiranagar - HAL - Old Airport Road,3
+R11,275A,Vijayanagar - Rajajinagar - Yeshwantpur,3
+R12,MBS-12,MG Road - Commercial Street - Shivajinagar,3
+R13,KRP-1,KR Puram - Tin Factory - Banaswadi,3
+R14,271E,Majestic - Sheshadripuram - Malleswaram,3
+R15,500SB,Hoodi - ITPL - Marathahalli - Silk Board,3
+R16,MBS-16,Cubbon Park - Cantonment - Sadashivanagar,3
+R17,HAL-2,Halasuru - Ulsoor - Domlur,3
+R18,285P,Pattanagere - Nayandahalli - Mysuru Road - Majestic,3

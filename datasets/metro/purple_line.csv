@@ -1,0 +1,38 @@
+station_id,station_name,latitude,longitude,line,type,sequence_number
+M01,Challaghatta,12.9467,77.5060,purple,metro,1
+M02,Kengeri,12.9350,77.4862,purple,metro,2
+M03,Kengeri Bus Terminal,12.9313,77.4835,purple,metro,3
+M04,Pattanagere,12.9405,77.4980,purple,metro,4
+M05,Jnanabharathi,12.9440,77.5080,purple,metro,5
+M06,RR Nagar,12.9490,77.5138,purple,metro,6
+M07,Nayandahalli,12.9535,77.5210,purple,metro,7
+M08,Mysuru Road,12.9573,77.5315,purple,metro,8
+M09,Deepanjali Nagar,12.9590,77.5378,purple,metro,9
+M10,Attiguppe,12.9610,77.5440,purple,metro,10
+M11,Vijayanagar,12.9635,77.5485,purple,metro,11
+M12,Hosahalli,12.9660,77.5530,purple,metro,12
+M13,Magadi Road,12.9690,77.5563,purple,metro,13
+M14,City Railway Station,12.9755,77.5660,purple,metro,14
+M15,Majestic,12.9766,77.5713,purple,metro_interchange,15
+M16,Central College,12.9770,77.5810,purple,metro,16
+M17,Vidhana Soudha,12.9780,77.5905,purple,metro,17
+M18,Cubbon Park,12.9776,77.5955,purple,metro,18
+M19,MG Road,12.9756,77.6065,purple,metro,19
+M20,Trinity,12.9750,77.6140,purple,metro,20
+M21,Halasuru,12.9760,77.6215,purple,metro,21
+M22,Indiranagar,12.9784,77.6408,purple,metro,22
+M23,Swami Vivekananda Road,12.9795,77.6490,purple,metro,23
+M24,Baiyappanahalli,12.9870,77.6550,purple,metro,24
+M25,Benniganahalli,12.9895,77.6640,purple,metro,25
+M26,KR Puram,12.9919,77.6960,purple,metro,26
+M27,Mahadevapura,12.9930,77.7025,purple,metro,27
+M28,Garudacharpalya,12.9940,77.7105,purple,metro,28
+M29,Hoodi,12.9945,77.7160,purple,metro,29
+M30,Seetharamapalya,12.9950,77.7210,purple,metro,30
+M31,Kundalahalli,12.9960,77.7265,purple,metro,31
+M32,Nallurhalli,12.9970,77.7315,purple,metro,32
+M33,Sri Sathya Sai Hospital,12.9975,77.7355,purple,metro,33
+M34,Pattandur Agrahara,12.9980,77.7385,purple,metro,34
+M35,Kadugodi Tree Park,12.9985,77.7415,purple,metro,35
+M36,Hopefarm Channasandra,12.9988,77.7435,purple,metro,36
+M37,Whitefield,12.9990,77.7450,purple,metro,37

@@ -1,0 +1,81 @@
+stop_id,stop_name,stop_lat,stop_lon
+B001,Majestic Bus Station,12.9772,77.5720
+B002,Kempegowda Bus Terminal,12.9780,77.5700
+B003,Gandhinagar,12.9800,77.5750
+B004,Sheshadripuram,12.9830,77.5720
+B005,Malleswaram Circle,12.9910,77.5680
+B006,Rajajinagar 1st Block,12.9880,77.5550
+B007,Vijayanagar Bus Stop,12.9640,77.5490
+B008,RR Nagar Bus Stop,12.9500,77.5145
+B009,Kengeri Satellite Town,12.9300,77.4810
+B010,MG Road Bus Stop,12.9760,77.6070
+B011,Brigade Road,12.9730,77.6080
+B012,Commercial Street,12.9810,77.6090
+B013,Shivajinagar Bus Station,12.9850,77.6050
+B014,Cantonment Railway Station,12.9890,77.5960
+B015,Indiranagar Bus Stop,12.9790,77.6415
+B016,HAL Old Airport Road,12.9700,77.6480
+B017,Domlur,12.9690,77.6380
+B018,Ulsoor,12.9730,77.6200
+B019,Halasuru Gate,12.9770,77.6220
+B020,Trinity Circle,12.9745,77.6145
+B021,Baiyappanahalli Bus Stop,12.9875,77.6555
+B022,KR Puram Bus Stop,12.9925,77.6965
+B023,Tin Factory,12.9945,77.6870
+B024,Banaswadi,12.9980,77.6520
+B025,Marathahalli Bridge,12.9560,77.7010
+B026,Marathahalli Bus Stop,12.9575,77.7030
+B027,Bellandur,12.9260,77.6780
+B028,Silk Board Junction,12.9170,77.6220
+B029,BTM Layout,12.9160,77.6100
+B030,Koramangala Bus Stop,12.9350,77.6250
+B031,Jayanagar 4th Block,12.9250,77.5830
+B032,JP Nagar Bus Stop,12.9100,77.5850
+B033,Banashankari Bus Stop,12.9200,77.5730
+B034,Basavanagudi,12.9430,77.5720
+B035,Yeshwantpur Railway Station,13.0070,77.5500
+B036,Hebbal,13.0350,77.5920
+B037,Whitefield Bus Stop,12.9995,77.7455
+B038,ITPL Main Gate,12.9850,77.7320
+B039,Hoodi Circle,12.9950,77.7165
+B040,Varthur,12.9430,77.7440
+B041,Kundalahalli Gate,12.9965,77.7270
+B042,Kadugodi Bus Stop,12.9988,77.7420
+B043,Electronic City Phase 1,12.8450,77.6620
+B044,Bommanahalli,12.9080,77.6240
+B045,Madiwala,12.9220,77.6160
+B046,Lalbagh Gate,12.9490,77.5850
+B047,Mysuru Road Bus Stop,12.9578,77.5320
+B048,Deepanjali Nagar Bus Stop,12.9595,77.5382
+B049,Nayandahalli Bus Stop,12.9540,77.5215
+B050,Pattanagere Bus Stop,12.9410,77.4985
+B051,Jnanabharathi Campus,12.9445,77.5085
+B052,Cubbon Park North Gate,12.9790,77.5960
+B053,Vidhana Soudha Bus Stop,12.9785,77.5910
+B054,KR Circle,12.9720,77.5780
+B055,Majestic Metro Link,12.9768,77.5718
+B056,City Market,12.9630,77.5770
+B057,Chamarajpet,12.9550,77.5700
+B058,Attiguppe Bus Stop,12.9615,77.5445
+B059,Hosahalli Bus Stop,12.9665,77.5535
+B060,Magadi Road Bus Stop,12.9695,77.5568
+B061,Swami Vivekananda Road Bus Stop,12.9800,77.6495
+B062,Benniganahalli Bus Stop,12.9900,77.6645
+B063,Mahadevapura Bus Stop,12.9935,77.7030
+B064,Garudacharpalya Bus Stop,12.9945,77.7110
+B065,Seetharamapalya Bus Stop,12.9955,77.7215
+B066,Nallurhalli Bus Stop,12.9975,77.7320
+B067,Pattandur Agrahara Bus Stop,12.9982,77.7390
+B068,Hopefarm Junction,12.9990,77.7440
+B069,Yeshwantpur Circle,13.0060,77.5520
+B070,Rajajinagar Bus Stop,12.9870,77.5560
+B071,Sampige Road,12.9780,77.5710
+B072,Sadashivanagar,13.0050,77.5820
+B073,Hebbal Flyover,13.0320,77.5900
+B074,Manyata Tech Park,13.0450,77.6200
+B075,Nagavara,13.0280,77.6180
+B076,Old Airport Road,12.9680,77.6480
+B077,HAL Bus Stop,12.9620,77.6550
+B078,Jeevanbhima Nagar,12.9600,77.6370
+B079,Ejipura,12.9480,77.6190
+B080,Adugodi,12.9420,77.6100
